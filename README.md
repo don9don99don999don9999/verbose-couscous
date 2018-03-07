@@ -38,5 +38,11 @@ results.to_csv('./data.csv ')
 
 
 ---
+2018-03-07
 
+'''
+pd.concat((pd.read_csv(f,sep='\t') for f in all_files),axis=1)
+''' 
+윗코드는all_files내 있는 f를 read_csv를 사용하여 sep='\t'인 pd로 변환시킨다.axis=1은 '열'추가
 
+---
