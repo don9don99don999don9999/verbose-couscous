@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *** multiple csv to dataFrame ***
 
 ---
@@ -46,3 +47,6 @@ pd.concat((pd.read_csv(f,sep='\t') for f in all_files),axis=1)
 윗코드는all_files내 있는 f를 read_csv를 사용하여 sep='\t'인 pd로 변환시킨다.axis=1은 '열'추가
 
 ---
+=======
+# don810million
+>>>>>>> f92f2068bf2d01f59951fcf689a962e961705739
