@@ -1,0 +1,6 @@
+# Downloaded from: https://www.ebi.ac.uk/gxa/search?geneQuery=%5B%7B%22value%22%3A%22arabidopsis%20thaliana%22%7D%5D&bs=%7B%22arabidopsis%20lyrata%22%3A%5B%22ORGANISM_PART%22%5D%2C%22arabidopsis%20thaliana%22%3A%5B%22ORGANISM_PART%22%5D%2C%22brachypodium%20distachyon%22%3A%5B%22ORGANISM_PART%22%5D%2C%22brassica%20oleracea%22%3A%5B%22ORGANISM_PART%22%5D%2C%22brassica%20rapa%22%3A%5B%22AGE%22%5D%2C%22glycine%20max%22%3A%5B%22ORGANISM_PART%22%5D%2C%22oryza%20sativa%22%3A%5B%22ORGANISM_PART%22%5D%2C%22solanum%20lycopersicum%22%3A%5B%22ORGANISM_PART%22%5D%2C%22solanum%20tuberosum%22%3A%5B%22ORGANISM_PART%22%5D%2C%22triticum%20aestivum%22%3A%5B%22ORGANISM_PART%22%5D%2C%22zea%20mays%22%3A%5B%22ORGANISM_PART%22%5D%7D&ds=%7B%22kingdom%22%3A%5B%22plants%22%5D%7D#baseline
+# Timestamp: 2018-02-22T11:01:52.297Z
+# Query results for: [{"value":"arabidopsis thaliana"}], in conditions [], in species Arabidopsis lyrata
+# Ordering: By experiment type
+	flower bud	root	seed
+Blanchette et al	29	44	13
